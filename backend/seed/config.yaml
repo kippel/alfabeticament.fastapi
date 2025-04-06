@@ -1,0 +1,27 @@
+monosillabs:
+  - name: "User 1"
+    order: 1
+  - name: "User 2"
+    order: 2
+  - name: "User 3"
+    order: 3
+  - name: "User 4"
+    order: 4
+  - name: "User 5"
+    order: 5
+monouser:
+  - nom: "pa"
+    owner_id: 1
+    icon: "monosillab/bread.svg"
+  - nom: "sol"
+    owner_id: 1
+    icon: "monosillab/bread.svg"
+  - nom: "ou"
+    owner_id: 1
+    icon: "monosillab/bread.svg"
+  - nom: "col"
+    owner_id: 1
+    icon: "monosillab/bread.svg"
+  - nom: "ull"
+    owner_id: 1
+    icon: "monosillab/bread.svg"
